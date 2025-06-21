@@ -172,7 +172,7 @@ def load_model():
     
     try:
         # Download model from Hugging Face
-        hf_model_repo = "your-username/mnist-highquality-vae"  # ✅ Replace with your repo
+        hf_model_repo = "ATO3/best_high_quality_vae"  # ✅ Replace with your repo
         hf_filename = "best_high_quality_vae.pth"
         
         # Download (cached automatically by HF)
